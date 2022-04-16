@@ -1,0 +1,4 @@
+this is C file...
+HELLO
+
+想要把這句話還原!
